@@ -1,0 +1,29 @@
+.Navbar{
+    display: flex;;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.Navbar-logo{
+    font-size: 2rem;
+    margin-left: 15rem;
+}
+
+.Navbar-navlinks{
+    display: flex;
+    margin-left: 5rem;
+}
+
+.Navbar-navlink{
+    font-size: 1.2rem;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+.Navbar-logout{
+    background-color: white;
+    border: transparent;
+    font-size: 1.2rem;
+    cursor: pointer;
+    color: red;
+    text-decoration: underline;
+}
